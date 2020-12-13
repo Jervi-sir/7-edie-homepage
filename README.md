@@ -85,11 +85,12 @@ This application/site was created as a submission to a [DevChallenges](https://d
 ### Larger Screen 
 ![screenshot](screenshoots/default.png)
 ___
-### Phone's Screen
+### Phone Screen
 
 <p align="center">
   <img src="screenshoots/phone1.png">
 </p>
+### Phone Screen's menu
 <p align="center">
   <img src="screenshoots/phone2.png">
 </p>
