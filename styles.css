@@ -35,7 +35,15 @@ body {
 
 main {
 	padding: 0 4vw;
+}
 
+body {
+	user-select: none;
+}
+
+a {
+  color: inherit; 
+  text-decoration: inherit; 
 }
 
 /*--- [styling fonts ] ---*/
@@ -51,7 +59,7 @@ nav .left-nav {
 	text-align: left;
 
 	color: #333333;
-
+	user-select: none;
 }
 
 nav .right-nav {
@@ -64,6 +72,7 @@ nav .right-nav {
 	text-align: left;
 
 	color: #333333;
+	user-select: none;
 }
 
 
